@@ -5,707 +5,11 @@
   "files": [
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.API.yml",
+      "source_relative_path": "api/MonsterTrainModdingAPI.Patches.CustomClanSelectScreenPatch.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.API.html",
-          "hash": "BNNl0S0ViR+6bOa26WI6Lw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.BuilderUtils.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.BuilderUtils.html",
-          "hash": "jWVsoGcvqKSwIGeBW4YkGg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardDataBuilder.html",
-          "hash": "f/qo7zUZJV0sHh9inukP5A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardEffectDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardEffectDataBuilder.html",
-          "hash": "MOYJ5e7lTWTMRvdDVEOv7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardTraitDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardTraitDataBuilder.html",
-          "hash": "Zbb6wOR8wZQKotrz//lWQQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardTriggerEffectDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardTriggerEffectDataBuilder.html",
-          "hash": "gZo+W7V+vo4NEuxF17JCMg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeDataBuilder.html",
-          "hash": "8SaVYVWr8OMFOcMCDnOgwQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeMaskDataBuilder.CompareOperator.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeMaskDataBuilder.CompareOperator.html",
-          "hash": "C7YbD1qKWT+XaQnDjLUC+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeMaskDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeMaskDataBuilder.html",
-          "hash": "a5okumonuXJPjEZRCfchUw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeTreeDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CardUpgradeTreeDataBuilder.html",
-          "hash": "4OHV8mzEEPg/CQNzV7bkCA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CharacterDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CharacterDataBuilder.html",
-          "hash": "CXtuE2Y/da8tTqLHbCit9Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CharacterTriggerDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CharacterTriggerDataBuilder.html",
-          "hash": "wNjvNYaKYODy4S/8zBIFJw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.ClassDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.ClassDataBuilder.html",
-          "hash": "bwutYlfL7rmTOdsZgJCVfQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.CollectableRelicDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.CollectableRelicDataBuilder.html",
-          "hash": "wj0nSGLRg9HXAj/uhpBmag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.DraftRewardDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.DraftRewardDataBuilder.html",
-          "hash": "sCPT9yx5m2jOwRPQMZrpmQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.IRewardDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.IRewardDataBuilder.html",
-          "hash": "Cu27b+sUVZMO3RkzI0YVrg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.RelicEffectDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.RelicEffectDataBuilder.html",
-          "hash": "PNt//7h7zrcitz/9cML6jA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.RewardNodeDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.RewardNodeDataBuilder.html",
-          "hash": "PfWUpJBTzdb6LTYSegKraA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.RoomModifierDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.RoomModifierDataBuilder.html",
-          "hash": "eYxAGRKIb0Cir8sqChNL8Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.StatusEffectDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.StatusEffectDataBuilder.html",
-          "hash": "aYuJUNYIppljUAlvjpp0EQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.SubtypeDataBuilder.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.SubtypeDataBuilder.html",
-          "hash": "CJE7j8JUp58Y/QLHkvrLOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Builders.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Builders.html",
-          "hash": "qmygZmIyymTIAJP6cQ/K/A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardEffectTypes.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardEffectTypes.html",
-          "hash": "LeDgXTHEhL7ci+6CESJ5FQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardPoolIDs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardPoolIDs.html",
-          "hash": "x2T25FJrIBIpBt5nPCbT1w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardTraitTypes.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaCardTraitTypes.html",
-          "hash": "Wdh7Y9TA/a+mcgzwIsW6pQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaClanIDs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaClanIDs.html",
-          "hash": "MJh+gbLadhUi3IeReZm4YQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaMapNodePoolIDs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaMapNodePoolIDs.html",
-          "hash": "dW3EscT7PTqCSQ8yRXIF7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaRelicPoolIDs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaRelicPoolIDs.html",
-          "hash": "MQgZ40wh4zkPa3iGj4+yvg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaStatusEffectIDs.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.VanillaStatusEffectIDs.html",
-          "hash": "h3mTgAvhQ4Mp8X0u3zmMPA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Constants.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Constants.html",
-          "hash": "DX394Qr3Xyd9kV+CbFUCMA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.ExtendedEnum-2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.ExtendedEnum-2.html",
-          "hash": "34Bsp4grmak5xSmQnc+CLg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CardTrigger.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CardTrigger.html",
-          "hash": "vZjYF6YtKLTBoiYVzVavMw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CardTriggers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CardTriggers.html",
-          "hash": "lupWfoX2gLNzkc2v0szOuw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CharacterTrigger.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CharacterTrigger.html",
-          "hash": "R0+WveFDdm5N/eHAJHyANA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CharacterTriggers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.CharacterTriggers.html",
-          "hash": "jmv7ouNmMqEwU+6ozdQujQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.MTTriggers.html",
-          "hash": "8NFUYYTiJWNjYJf7Njkm+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Enums.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Enums.html",
-          "hash": "UTd1TRiIqKhIJhJ4qaVi/g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Interfaces.IInitializable.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Interfaces.IInitializable.html",
-          "hash": "stnPHMnLuaOWij44t1Q2Yg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Interfaces.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Interfaces.html",
-          "hash": "EcoCAT8ie4dEj5iNT7HL3Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.AssetBundleLoadingInfo.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.AssetBundleLoadingInfo.html",
-          "hash": "tD/hHJtVJaoMGM+llSz8NA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.GameObjectImportSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.GameObjectImportSettings.html",
-          "hash": "EHOsaYkva8Nt3FdU2mKUbA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.ISettings-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.ISettings-1.html",
-          "hash": "cMNiKumjTVk/6sAHKqkm2w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.ISettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.ISettings.html",
-          "hash": "TQVXOWY6Y/qdgdqaK9TvNg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.SpriteImportSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.SpriteImportSettings.html",
-          "hash": "aFy0sNQn+sSOfwdqcXg8DA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.Texture2DImportSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.Texture2DImportSettings.html",
-          "hash": "8yUWHAb1o81IbSfGDzdIqQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomAssetManager.html",
-          "hash": "a+zxdQowEZZTmGb/PJ4Adg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomCardManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomCardManager.html",
-          "hash": "+tw9fRXWHGc+1DSv72A6bg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomCharacterManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomCharacterManager.html",
-          "hash": "xL4yMcvYAEGPBEl+ZCQAcw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomClassManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomClassManager.html",
-          "hash": "Bc8xvfRY8SxgLFVmGb0U+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomLocalizationManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomLocalizationManager.html",
-          "hash": "EzViunfIW0CAZTD2r/B+nA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomMapNodeManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomMapNodeManager.html",
-          "hash": "DgnDxsLkxs/UHfJ+99KPuQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.CustomTriggerManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.CustomTriggerManager.html",
-          "hash": "z1iWlgFG6FRaq+H+xGQ0pg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.PluginManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.PluginManager.html",
-          "hash": "EWbKFAaAbhHMBt91kZHK3Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.ProviderManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.ProviderManager.html",
-          "hash": "cXkrQ+93lWkh+bBXtlDX9g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Managers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Managers.html",
-          "hash": "cCwjDmktdZa7iAlhrTuXag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Patches.SECardTooltipLocalizationPatch.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Patches.SECardTooltipLocalizationPatch.html",
-          "hash": "UZrzdSkQAZYKA5LB2S0S0g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Patches.SENameLocalizationPatch.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Patches.SENameLocalizationPatch.html",
-          "hash": "w1nNn/gqrDbW7o2lbI9wyQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Patches.SENoticeLocalizationPatch.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Patches.SENoticeLocalizationPatch.html",
-          "hash": "futqoqE7dwPHeuwdLQ2N4g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.Patches.SETooltipLocalizationPatch.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.Patches.SETooltipLocalizationPatch.html",
-          "hash": "d6i1PIptFjJs/6kZIhYtrQ=="
+          "relative_path": "api/MonsterTrainModdingAPI.Patches.CustomClanSelectScreenPatch.html",
+          "hash": "h3FAdoWMcMwYbHhxt8gj9A=="
         }
       },
       "is_incremental": false,
@@ -717,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MonsterTrainModdingAPI.Patches.html",
-          "hash": "Ti62BFZutmdZ52AQEK2xSQ=="
+          "hash": "hfxl6nGPHTbCjK58aXuGlw=="
         }
       },
       "is_incremental": false,
@@ -725,11 +29,959 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/MonsterTrainModdingAPI.yml",
+      "source_relative_path": "api/Trainworks.AssetConstructors.CardArtAssetConstructor.yml",
       "output": {
         ".html": {
-          "relative_path": "api/MonsterTrainModdingAPI.html",
-          "hash": "DetuJgdgda6PYpFwHVntow=="
+          "relative_path": "api/Trainworks.AssetConstructors.CardArtAssetConstructor.html",
+          "hash": "KAECsqtOH7dNfSUQydCffA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.AssetConstructors.CharacterAssetConstructor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.AssetConstructors.CharacterAssetConstructor.html",
+          "hash": "9GdgK8C8r5A/IFMaO9kXnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.AssetConstructors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.AssetConstructors.html",
+          "hash": "uU6W2PLrqkCvDO9uQsWbpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.AssetRefBuilder.AssetTypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.AssetRefBuilder.AssetTypeEnum.html",
+          "hash": "xLPgZ53PhDtNE9FPFEciqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.AssetRefBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.AssetRefBuilder.html",
+          "hash": "gRDBUHC9Icg8RsknPaRUOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.BuilderUtils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.BuilderUtils.html",
+          "hash": "PbAYAJ/siYifWBJMamRcrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardDataBuilder.html",
+          "hash": "Y7aco/wttlSNJXe1xFY+BQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardEffectDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardEffectDataBuilder.html",
+          "hash": "WPF/8GrN6dnHU239DOTZXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardPoolBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardPoolBuilder.html",
+          "hash": "4/01CgZNXXZtX86cBIP+dA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardTraitDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardTraitDataBuilder.html",
+          "hash": "gIkPMhK5pjeZ23ER9mUfBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardTriggerEffectDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardTriggerEffectDataBuilder.html",
+          "hash": "huwnG0SPD5cha2aTdCh7Zg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardUpgradeDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardUpgradeDataBuilder.html",
+          "hash": "5QQ0yiPJpK1rRpMaAi7O/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardUpgradeMaskDataBuilder.CompareOperator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardUpgradeMaskDataBuilder.CompareOperator.html",
+          "hash": "/PavAZDUCHdwrypo9cPLJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardUpgradeMaskDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardUpgradeMaskDataBuilder.html",
+          "hash": "dSDQfltG7aa1zOXzcbXD9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CardUpgradeTreeDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CardUpgradeTreeDataBuilder.html",
+          "hash": "BbYRC7faeCkVgYnBtmdgCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.ChampionCardDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.ChampionCardDataBuilder.html",
+          "hash": "fjim69MaeDYzU/erLVEnFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CharacterDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CharacterDataBuilder.html",
+          "hash": "p8o0jFzaIB5B3S9s2lJHdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CharacterTriggerDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CharacterTriggerDataBuilder.html",
+          "hash": "rnbofW44HcAb/8ZbHkOEdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.ClassDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.ClassDataBuilder.html",
+          "hash": "6lnnlfX9/udFi7kmkGg/Vg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.CollectableRelicDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.CollectableRelicDataBuilder.html",
+          "hash": "TX85PRZfBBJM21D25RsP0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.DraftRewardDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.DraftRewardDataBuilder.html",
+          "hash": "K1v1L7Y2sz9Us4B6nCp+AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.EnhancerDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.EnhancerDataBuilder.html",
+          "hash": "oHtuJpHd7QIBFjwFE+riOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.IRewardDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.IRewardDataBuilder.html",
+          "hash": "IcHKaWjt6dywZvhnFTHWCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.RelicEffectConditionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.RelicEffectConditionBuilder.html",
+          "hash": "slsYhof330lW8Y422opyvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.RelicEffectDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.RelicEffectDataBuilder.html",
+          "hash": "ItxstGz3Y2CjYTsa6ulNQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.RewardNodeDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.RewardNodeDataBuilder.html",
+          "hash": "UduTyQremqR8ankqAvXrRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.RoomModifierDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.RoomModifierDataBuilder.html",
+          "hash": "HMwkdF06ZkV/4dV2X3jjfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.StatusEffectDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.StatusEffectDataBuilder.html",
+          "hash": "F0VHY6qCVtHzWzPRe0wx1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.SubtypeDataBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.SubtypeDataBuilder.html",
+          "hash": "kWAQuG1TNLyn7e7w0FwRpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Builders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Builders.html",
+          "hash": "5QDXparxcrEBMA9xM+GVkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCardEffectTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCardEffectTypes.html",
+          "hash": "Nwkl0YTtG9wZN9MsnQGh/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCardIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCardIDs.html",
+          "hash": "mMMbqbOSgi+rf8O2T0nI3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCardPoolIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCardPoolIDs.html",
+          "hash": "xItIMzWkLd2KCa4jQ5TG7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCardTraitTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCardTraitTypes.html",
+          "hash": "yVw91Osl7pga2vLmrOZE/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCharacterIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCharacterIDs.html",
+          "hash": "JdJ9sb77EF4Bh//uxuaT+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaClanIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaClanIDs.html",
+          "hash": "a7UnJPsnXIWF2GfQLDFW6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaCollectableRelicIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaCollectableRelicIDs.html",
+          "hash": "aZFQfRVrlbOwqzsS6gnBaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaEnhancerPoolIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaEnhancerPoolIDs.html",
+          "hash": "jKdPQMEph6K2Wj6iL1RLmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaMapNodePoolIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaMapNodePoolIDs.html",
+          "hash": "9DHmx1pK2N1FgZV1kcLlsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaRelicPoolIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaRelicPoolIDs.html",
+          "hash": "mkwWqTXjWI14y0RKs4veYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.VanillaStatusEffectIDs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.VanillaStatusEffectIDs.html",
+          "hash": "TgTXPCtD3mEZ8FdLZDzzqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Constants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Constants.html",
+          "hash": "H2Qni5YbSkaJyVm25/A2oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.ExtendedEnum-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.ExtendedEnum-2.html",
+          "hash": "3Y+fQpO8gamXmdrpnsC2KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.MTTriggers.CardTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.MTTriggers.CardTrigger.html",
+          "hash": "4tz17AK1ST1V8KnNo/f7EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.MTTriggers.CharacterTrigger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.MTTriggers.CharacterTrigger.html",
+          "hash": "ut7SD6NiXKkPQjSLtfQljg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.MTTriggers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.MTTriggers.html",
+          "hash": "dF/beiAOi/iKuREpOZJOKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.TrackedValueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.TrackedValueType.html",
+          "hash": "Ju01Y7EhhpMDSH5t/QT9lA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Enums.html",
+          "hash": "I0DkFzmJzEpXClPvr26e/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Interfaces.IAssetConstructor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Interfaces.IAssetConstructor.html",
+          "hash": "qzjETySxlDgNqB6nhr2lAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Interfaces.IInitializable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Interfaces.IInitializable.html",
+          "hash": "yu26KjaJRql/b9bg1gXtBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Interfaces.html",
+          "hash": "Fa3C4UKFQaaUVnHfpxNJZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.BundleManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.BundleManager.html",
+          "hash": "dG6EhsCeEphn5xJNnHqm4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomAssetManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomAssetManager.html",
+          "hash": "Clgi0UmRRzVPy4+hIA+hAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomCardManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomCardManager.html",
+          "hash": "q98DCGvUs+JooEJl+oN+nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomCharacterManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomCharacterManager.html",
+          "hash": "srSaN3Xq8gADHCdtQBuIQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomClassManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomClassManager.html",
+          "hash": "0/ceQ1LYLiVgMAltL9VCFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomCollectableRelicManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomCollectableRelicManager.html",
+          "hash": "D2ylUzPAUbJtcampzj9w6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomLocalizationManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomLocalizationManager.html",
+          "hash": "W20FhsWLbaH26Yo/k5Wkkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomMapNodePoolManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomMapNodePoolManager.html",
+          "hash": "DBEfqIwUTOixSfd2swoMEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.CustomTriggerManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.CustomTriggerManager.html",
+          "hash": "mVQakSp0NDzptMNBJTTipw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.PluginManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.PluginManager.html",
+          "hash": "Ubvt4pAGyioITZJ1OWIpzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.ProviderManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.ProviderManager.html",
+          "hash": "VJkt8QPqori514C01ZxuLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Managers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Managers.html",
+          "hash": "UvtRE5qUvNp9y5OMzIEzhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.EnhancerDataList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.EnhancerDataList.html",
+          "hash": "0orqNTXj1N1CKac3bLxNXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.SECardTooltipLocalizationPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.SECardTooltipLocalizationPatch.html",
+          "hash": "0tbf9cdhohX4j0tPG9Jz4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.SENameLocalizationPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.SENameLocalizationPatch.html",
+          "hash": "kaqWLKmvQpoM12PTA54q3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.SENoticeLocalizationPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.SENoticeLocalizationPatch.html",
+          "hash": "wLViEGIgsYMIA1F3RKs+Yw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.SETooltipLocalizationPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.SETooltipLocalizationPatch.html",
+          "hash": "svwQ8MW8tPPRzCbxCdwNng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Patches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Patches.html",
+          "hash": "fNFVKZxu0OGOGcLSXmyJrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Trainworks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Trainworks.html",
+          "hash": "suVbzhJnh2t+s+ChCmDJuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.AssetLoadingInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.AssetLoadingInfo.html",
+          "hash": "/2F0JqFTTpfPGO6tm2OuiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.BundleAssetLoadingInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.BundleAssetLoadingInfo.html",
+          "hash": "EJev5YZIsVpkrCiauT5KDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.GUIDGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.GUIDGenerator.html",
+          "hash": "3HoddejIHi7ewagrez585A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.GameObjectImportSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.GameObjectImportSettings.html",
+          "hash": "ToTW+03dsqqj6lamKzhFuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.ISettings-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.ISettings-1.html",
+          "hash": "yCxWUvDNwJbxUI25LA5QRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.ISettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.ISettings.html",
+          "hash": "oJpeGnSbV5IB7UKUHOg0Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.SpriteImportSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.SpriteImportSettings.html",
+          "hash": "DT53DWSAsdK4bbRNuWVREw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.Texture2DImportSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.Texture2DImportSettings.html",
+          "hash": "4NUZOpXijki6rLH/vwA/+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.Utilities.html",
+          "hash": "vhxaar+4BgKPYVphQsbTzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Trainworks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Trainworks.html",
+          "hash": "Ta3/CfjvdxF2jG//JZNq5Q=="
         }
       },
       "is_incremental": false,
@@ -741,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "jE2KJX47OAr7xjts5djfkQ=="
+          "hash": "KK4PASMSs+L4QQgyt4YcnA=="
         }
       },
       "is_incremental": false,
@@ -753,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "phy3rFgc+dx0bMHxiPTBEw=="
+          "hash": "MPnNJrEULt5dQPOcVs0dFw=="
         }
       },
       "is_incremental": false,
@@ -765,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "zHYzwsa2LBiE7t/XhQpacA=="
+          "hash": "axJcta7kEIEy3M5hNoNVSA=="
         }
       },
       "is_incremental": true,
@@ -789,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "1hn+sqE6LTNjh6QVWx036Q=="
+          "hash": "ndIKTtwMr2OQXA3cgsJE3Q=="
         }
       },
       "is_incremental": true,
@@ -826,8 +1078,8 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": true,
           "incrementalPhase": "build",
-          "total_file_count": 61,
-          "skipped_file_count": 35
+          "total_file_count": 82,
+          "skipped_file_count": 73
         },
         "TocDocumentProcessor": {
           "can_incremental": false,
